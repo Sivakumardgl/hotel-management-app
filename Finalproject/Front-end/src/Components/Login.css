@@ -1,0 +1,19 @@
+
+.login{
+    justify-content: center;
+    align-self: center;
+
+}
+
+.h11{
+font-weight: 400;
+text-align: center;
+}
+
+.labels{
+    border: 0px solid black;
+    height:1fr;
+    width: 1fr;
+    color: black;
+    background:yellowgreen;
+}

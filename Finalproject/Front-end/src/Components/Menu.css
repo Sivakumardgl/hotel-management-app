@@ -1,0 +1,28 @@
+.menu{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+.menubar{
+    margin-top: 30px;
+     display: grid;  
+     grid-template-columns:repeat(2,2fr);
+     grid-template-rows:repeat(2,2fr);   
+     /* flex-wrap: wrap; */
+       
+      }
+      #h4{
+        margin-top: 30px;
+        color: brown;
+      }
+     .h3{
+        margin: 0%;
+     }
+     .menubar .divs{
+        margin-top: 50px;
+     }
+     #lunch{
+        display: flex;
+        justify-content: center;
+     }
+     
